@@ -1,5 +1,5 @@
 open this with visual studio.
-run commang 'add-migration init' and 'update-database' in package manager console.
+run command 'add-migration init' and 'update-database' in package manager console.
 add new rooms and new bookings from swagger.
 and run this api.
 open angular project in visual studio code.
